@@ -1,3 +1,5 @@
+HELLO !!!!
+
 #include "TV.h"
 
 void khoiTaoCN(NodeptrCN& list)
